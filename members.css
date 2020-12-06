@@ -1,0 +1,29 @@
+/* body{background-color: rgba(1, 1, 1, .5); background: linear-gradient(90deg, rgb(104, 99, 197) 0%, rgb(151, 151, 253) 14%, rgba(0,212,255,1) 100%);} */
+#main{max-width: auto; height: auto; margin: auto;}
+.container{display: inline;}
+
+nav a{color: white; text-decoration: none}
+.navbar{background-color: rgba(1, 1, 1, .5); background: linear-gradient(90deg, rgb(104, 99, 197) 0%, rgb(151, 151, 253) 14%, rgba(0,212,255,1) 100%);}
+.social-links{display: inline;}
+.fa {padding: 5px; font-size: 30px; width: 30px; text-align: center; text-decoration: none; margin: 2px 2px;}
+
+.members div{display: inline-block;}
+.members{width: 1140px; height: 600px; position: relative; top: 50px; margin: auto; backgro0und-color: aquamarine;}
+.wrap{width: 910px; height: auto; position: absolute; backgro0und-color: aqua;}
+
+.mem_name{width: 100px; margin: 0 30px 0 0; position: relative; backgro0und-color: blue;}
+.mem_name a{text-decoration: none; color: black;}
+.mem_name p{text-align: right; margin: 3px; }
+.mem_name p:hover{padding-right: 10px; transition: 0.5s}
+
+.profile{width: 470px; height: 600px; position: relative;}
+.mem_bgr{width: 414px; height: 530px; position: absolute; top: 0; left: 0;}
+.mem_pro{width: 414px; height: 530px; position: relative; top: 25px; left: 25px; margin: auto; box-shadow: 15px 15px 20px 0 #a39a9a}
+
+.love{position: absolute; bottom: 45px; left: -120px;}
+.lovely{width: auto; position: absolute; padding-left: 15px;}
+.mem_txt{width: 540px; height: auto; position: absolute; bottom: 45px; padding-left: 15px; backgro0und-color: beige;}
+.name_t{font-size: 25pt; font-family: 'Montserrat'; font-weight: bold; margin-bottom: 10px; text-align: center;}
+table{font-family: 'Times New Roman', Times, serif;}
+
+.fb-page{position: relative; float: right; bottom: -40px; right: 20px;}

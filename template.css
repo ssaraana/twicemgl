@@ -1,0 +1,8 @@
+/* body{background-color: rgba(1, 1, 1, .5); background: linear-gradient(90deg, rgb(104, 99, 197) 0%, rgb(151, 151, 253) 14%, rgba(0,212,255,1) 100%);} */
+#main{max-width: 1583px; height: 737px; margin: auto;}
+.container{display: inline;}
+
+nav a{color: white; text-decoration: none}
+.navbar{background-color: rgba(1, 1, 1, .5); background: linear-gradient(90deg, rgb(104, 99, 197) 0%, rgb(151, 151, 253) 14%, rgba(0,212,255,1) 100%);}
+.social-links{display: inline;}
+.fa {padding: 5px; font-size: 30px; width: 30px; text-align: center; text-decoration: none; margin: 2px 2px;}
